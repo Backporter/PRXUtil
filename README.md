@@ -1,5 +1,6 @@
-# PRX_505
-my 5.05 and PS4debug version of Swaqq's PS4PRX tool
+# PRXUtil
+
+PS4Debug based Tool that enables intergrates Swaqq's PS4PRX tool and many other things.
 
 ![screenshot](addgame.png)
 ![screenshot](app.png)
